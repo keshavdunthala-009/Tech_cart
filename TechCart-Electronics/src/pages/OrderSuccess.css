@@ -1,0 +1,80 @@
+.order-success-page {
+  padding: var(--space-6) var(--space-4);
+  display: flex;
+  justify-content: center;
+}
+
+.order-success-card {
+  width: 100%;
+  max-width: 560px;
+  padding: var(--space-6);
+  text-align: center;
+}
+
+.success-icon {
+  color: var(--color-success);
+  margin-bottom: var(--space-3);
+}
+
+.order-success-card h1 {
+  font-size: 22px;
+  margin: 0 0 var(--space-2);
+}
+
+.order-details {
+  text-align: left;
+  margin: var(--space-5) 0;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-4) 0;
+}
+
+.order-details-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  margin-bottom: var(--space-2);
+}
+
+.status-pill {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.order-items {
+  text-align: left;
+  margin-bottom: var(--space-4);
+}
+
+.order-item-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  font-size: 13px;
+  margin-bottom: var(--space-3);
+}
+
+.order-item-row img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--color-border);
+  padding: 3px;
+  box-sizing: border-box;
+  border-radius: var(--radius-sm);
+}
+
+.order-item-name {
+  flex: 1;
+}
+
+.order-success-actions {
+  display: flex;
+  gap: var(--space-3);
+  justify-content: center;
+  margin-top: var(--space-5);
+}

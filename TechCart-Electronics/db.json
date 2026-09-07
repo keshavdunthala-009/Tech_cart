@@ -1,0 +1,1747 @@
+{
+  "categories": [
+    {
+      "id": "mobiles",
+      "name": "Mobiles",
+      "slug": "mobiles",
+      "icon": "📱"
+    },
+    {
+      "id": "laptops",
+      "name": "Laptops",
+      "slug": "laptops",
+      "icon": "💻"
+    },
+    {
+      "id": "acs",
+      "name": "ACs",
+      "slug": "acs",
+      "icon": "❄️"
+    },
+    {
+      "id": "tvs",
+      "name": "TVs",
+      "slug": "tvs",
+      "icon": "📺"
+    },
+    {
+      "id": "game-consoles",
+      "name": "Game Consoles",
+      "slug": "game-consoles",
+      "icon": "🎮"
+    },
+    {
+      "id": "tabs",
+      "name": "Tabs",
+      "slug": "tabs",
+      "icon": "📱"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "categorySlug": "mobiles",
+      "price": 159900,
+      "mrp": 169494,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+      ],
+      "rating": 4.5,
+      "ratingCount": 111,
+      "stock": 65,
+      "description": "iPhone 15 Pro Max by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Display": "6.7\" Super Retina XDR",
+        "Battery": "4441mAh",
+        "Camera": "48MP Triple"
+      }
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "categorySlug": "mobiles",
+      "price": 79900,
+      "mrp": 85493,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG"
+      ],
+      "rating": 4,
+      "ratingCount": 202,
+      "stock": 28,
+      "description": "iPhone 15 by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Display": "6.1\" Super Retina XDR",
+        "Battery": "3349mAh",
+        "Camera": "48MP Dual"
+      }
+    },
+    {
+      "id": 3,
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "categorySlug": "mobiles",
+      "price": 65900,
+      "mrp": 71172,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png"
+      ],
+      "rating": 4.9,
+      "ratingCount": 293,
+      "stock": 81,
+      "description": "iPhone 14 by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "6GB",
+        "Storage": "128GB",
+        "Display": "6.1\" OLED",
+        "Battery": "3279mAh",
+        "Camera": "12MP Dual"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S24 Ultra",
+      "brand": "Samsung",
+      "categorySlug": "mobiles",
+      "price": 129999,
+      "mrp": 141699,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+      ],
+      "rating": 4.4,
+      "ratingCount": 384,
+      "stock": 44,
+      "description": "Samsung Galaxy S24 Ultra by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.8\" QHD+ AMOLED",
+        "Battery": "5000mAh",
+        "Camera": "200MP Quad"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "categorySlug": "mobiles",
+      "price": 79999,
+      "mrp": 87999,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG"
+      ],
+      "rating": 3.9,
+      "ratingCount": 475,
+      "stock": 97,
+      "description": "Samsung Galaxy S24 by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Display": "6.2\" AMOLED",
+        "Battery": "4000mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy A55",
+      "brand": "Samsung",
+      "categorySlug": "mobiles",
+      "price": 38999,
+      "mrp": 43289,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png"
+      ],
+      "rating": 4.8,
+      "ratingCount": 566,
+      "stock": 60,
+      "description": "Samsung Galaxy A55 by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Display": "6.6\" Super AMOLED",
+        "Battery": "5000mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 7,
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "categorySlug": "mobiles",
+      "price": 64999,
+      "mrp": 72799,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+      ],
+      "rating": 4.3,
+      "ratingCount": 657,
+      "stock": 23,
+      "description": "OnePlus 12 by OnePlus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.82\" LTPO AMOLED",
+        "Battery": "5400mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 8,
+      "name": "OnePlus Nord CE4",
+      "brand": "OnePlus",
+      "categorySlug": "mobiles",
+      "price": 24999,
+      "mrp": 28249,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG"
+      ],
+      "rating": 3.8,
+      "ratingCount": 748,
+      "stock": 76,
+      "description": "OnePlus Nord CE4 by OnePlus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Display": "6.7\" AMOLED",
+        "Battery": "5500mAh",
+        "Camera": "50MP Dual"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi 14",
+      "brand": "Xiaomi",
+      "categorySlug": "mobiles",
+      "price": 54999,
+      "mrp": 62699,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png"
+      ],
+      "rating": 4.7,
+      "ratingCount": 839,
+      "stock": 39,
+      "description": "Xiaomi 14 by Xiaomi. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.36\" AMOLED",
+        "Battery": "4610mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Redmi Note 13 Pro",
+      "brand": "Xiaomi",
+      "categorySlug": "mobiles",
+      "price": 25999,
+      "mrp": 29899,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+      ],
+      "rating": 4.2,
+      "ratingCount": 30,
+      "stock": 92,
+      "description": "Redmi Note 13 Pro by Xiaomi. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Display": "6.67\" AMOLED",
+        "Battery": "5100mAh",
+        "Camera": "200MP Triple"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Google Pixel 8 Pro",
+      "brand": "Google",
+      "categorySlug": "mobiles",
+      "price": 106999,
+      "mrp": 124119,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG"
+      ],
+      "rating": 3.7,
+      "ratingCount": 121,
+      "stock": 55,
+      "description": "Google Pixel 8 Pro by Google. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "12GB",
+        "Storage": "128GB",
+        "Display": "6.7\" LTPO OLED",
+        "Battery": "5050mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Google Pixel 8a",
+      "brand": "Google",
+      "categorySlug": "mobiles",
+      "price": 52999,
+      "mrp": 62009,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png"
+      ],
+      "rating": 4.6,
+      "ratingCount": 212,
+      "stock": 18,
+      "description": "Google Pixel 8a by Google. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Display": "6.1\" OLED",
+        "Battery": "4492mAh",
+        "Camera": "64MP Dual"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Vivo V30",
+      "brand": "Vivo",
+      "categorySlug": "mobiles",
+      "price": 33999,
+      "mrp": 40119,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+      ],
+      "rating": 4.1,
+      "ratingCount": 303,
+      "stock": 71,
+      "description": "Vivo V30 by Vivo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Display": "6.78\" AMOLED",
+        "Battery": "5000mAh",
+        "Camera": "50MP Dual"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Oppo Reno 11",
+      "brand": "Oppo",
+      "categorySlug": "mobiles",
+      "price": 32999,
+      "mrp": 39269,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG"
+      ],
+      "rating": 3.6,
+      "ratingCount": 394,
+      "stock": 34,
+      "description": "Oppo Reno 11 by Oppo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "Display": "6.7\" AMOLED",
+        "Battery": "5000mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Realme 12 Pro+",
+      "brand": "Realme",
+      "categorySlug": "mobiles",
+      "price": 29999,
+      "mrp": 35999,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/500px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png"
+      ],
+      "rating": 4.5,
+      "ratingCount": 485,
+      "stock": 87,
+      "description": "Realme 12 Pro+ by Realme. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "8GB",
+        "Storage": "128GB",
+        "Display": "6.7\" AMOLED",
+        "Battery": "5000mAh",
+        "Camera": "50MP Triple"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Nothing Phone 2",
+      "brand": "Nothing",
+      "categorySlug": "mobiles",
+      "price": 44999,
+      "mrp": 54449,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SamsungGalaxyS22Series.png/500px-SamsungGalaxyS22Series.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+      ],
+      "rating": 4,
+      "ratingCount": 576,
+      "stock": 50,
+      "description": "Nothing Phone 2 by Nothing. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "RAM": "12GB",
+        "Storage": "256GB",
+        "Display": "6.7\" LTPO OLED",
+        "Battery": "4700mAh",
+        "Camera": "50MP Dual"
+      }
+    },
+    {
+      "id": 17,
+      "name": "MacBook Air M2",
+      "brand": "Apple",
+      "categorySlug": "laptops",
+      "price": 114900,
+      "mrp": 140178,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg"
+      ],
+      "rating": 4.9,
+      "ratingCount": 667,
+      "stock": 13,
+      "description": "MacBook Air M2 by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Apple M2",
+        "RAM": "8GB",
+        "Storage": "256GB SSD",
+        "Display": "13.6\" Liquid Retina"
+      }
+    },
+    {
+      "id": 18,
+      "name": "MacBook Pro 14 M3",
+      "brand": "Apple",
+      "categorySlug": "laptops",
+      "price": 169900,
+      "mrp": 208977,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+      ],
+      "rating": 4.4,
+      "ratingCount": 758,
+      "stock": 66,
+      "description": "MacBook Pro 14 M3 by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Apple M3",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "14.2\" Liquid Retina XDR"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Dell XPS 13",
+      "brand": "Dell",
+      "categorySlug": "laptops",
+      "price": 99990,
+      "mrp": 123988,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg"
+      ],
+      "rating": 3.9,
+      "ratingCount": 849,
+      "stock": 29,
+      "description": "Dell XPS 13 by Dell. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "13.4\" FHD+"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Dell Inspiron 15",
+      "brand": "Dell",
+      "categorySlug": "laptops",
+      "price": 54990,
+      "mrp": 57740,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+      ],
+      "rating": 4.8,
+      "ratingCount": 40,
+      "stock": 82,
+      "description": "Dell Inspiron 15 by Dell. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i5",
+        "RAM": "8GB",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD"
+      }
+    },
+    {
+      "id": 21,
+      "name": "HP Pavilion 15",
+      "brand": "HP",
+      "categorySlug": "laptops",
+      "price": 58990,
+      "mrp": 62529,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg"
+      ],
+      "rating": 4.3,
+      "ratingCount": 131,
+      "stock": 45,
+      "description": "HP Pavilion 15 by HP. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i5",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD"
+      }
+    },
+    {
+      "id": 22,
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "categorySlug": "laptops",
+      "price": 134990,
+      "mrp": 144439,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+      ],
+      "rating": 3.8,
+      "ratingCount": 222,
+      "stock": 98,
+      "description": "HP Spectre x360 by HP. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "1TB SSD",
+        "Display": "13.5\" 3K2K OLED"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "categorySlug": "laptops",
+      "price": 149990,
+      "mrp": 161989,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg"
+      ],
+      "rating": 4.7,
+      "ratingCount": 313,
+      "stock": 61,
+      "description": "Lenovo ThinkPad X1 Carbon by Lenovo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i7",
+        "RAM": "16GB",
+        "Storage": "1TB SSD",
+        "Display": "14\" WUXGA"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Lenovo IdeaPad Slim 5",
+      "brand": "Lenovo",
+      "categorySlug": "laptops",
+      "price": 52990,
+      "mrp": 57759,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+      ],
+      "rating": 4.2,
+      "ratingCount": 404,
+      "stock": 24,
+      "description": "Lenovo IdeaPad Slim 5 by Lenovo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "16GB",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "categorySlug": "laptops",
+      "price": 159990,
+      "mrp": 175989,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg"
+      ],
+      "rating": 3.7,
+      "ratingCount": 495,
+      "stock": 77,
+      "description": "Asus ROG Zephyrus G14 by Asus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "AMD Ryzen 9",
+        "RAM": "16GB",
+        "GPU": "RTX 4060",
+        "Display": "14\" QHD 165Hz"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Asus VivoBook 15",
+      "brand": "Asus",
+      "categorySlug": "laptops",
+      "price": 44990,
+      "mrp": 49939,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+      ],
+      "rating": 4.6,
+      "ratingCount": 586,
+      "stock": 40,
+      "description": "Asus VivoBook 15 by Asus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i3",
+        "RAM": "8GB",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Acer Aspire 7",
+      "brand": "Acer",
+      "categorySlug": "laptops",
+      "price": 54990,
+      "mrp": 61589,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg"
+      ],
+      "rating": 4.1,
+      "ratingCount": 677,
+      "stock": 93,
+      "description": "Acer Aspire 7 by Acer. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "16GB",
+        "GPU": "RTX 2050",
+        "Display": "15.6\" FHD"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Microsoft Surface Laptop 5",
+      "brand": "Microsoft",
+      "categorySlug": "laptops",
+      "price": 99990,
+      "mrp": 112989,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/DELL_XPS_13_and_15_%2837080596413%29.jpg/500px-DELL_XPS_13_and_15_%2837080596413%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+      ],
+      "rating": 3.6,
+      "ratingCount": 768,
+      "stock": 56,
+      "description": "Microsoft Surface Laptop 5 by Microsoft. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Processor": "Intel Core i5",
+        "RAM": "8GB",
+        "Storage": "512GB SSD",
+        "Display": "13.5\" PixelSense"
+      }
+    },
+    {
+      "id": 29,
+      "name": "LG 1.5 Ton 5 Star Inverter Split AC",
+      "brand": "LG",
+      "categorySlug": "acs",
+      "price": 44990,
+      "mrp": 51289,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg"
+      ],
+      "rating": 4.5,
+      "ratingCount": 859,
+      "stock": 19,
+      "description": "LG 1.5 Ton 5 Star Inverter Split AC by LG. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "5 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Daikin 1.5 Ton 3 Star Inverter Split AC",
+      "brand": "Daikin",
+      "categorySlug": "acs",
+      "price": 42990,
+      "mrp": 49438,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heat_pump_unit.webp/500px-Heat_pump_unit.webp"
+      ],
+      "rating": 4,
+      "ratingCount": 50,
+      "stock": 72,
+      "description": "Daikin 1.5 Ton 3 Star Inverter Split AC by Daikin. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Voltas 1.5 Ton 3 Star Split AC",
+      "brand": "Voltas",
+      "categorySlug": "acs",
+      "price": 33990,
+      "mrp": 39428,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heat_pump_unit.webp/500px-Heat_pump_unit.webp",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg"
+      ],
+      "rating": 4.9,
+      "ratingCount": 141,
+      "stock": 35,
+      "description": "Voltas 1.5 Ton 3 Star Split AC by Voltas. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Samsung 1 Ton WindFree Split AC",
+      "brand": "Samsung",
+      "categorySlug": "acs",
+      "price": 37990,
+      "mrp": 44448,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg"
+      ],
+      "rating": 4.4,
+      "ratingCount": 232,
+      "stock": 88,
+      "description": "Samsung 1 Ton WindFree Split AC by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Blue Star 2 Ton 5 Star Split AC",
+      "brand": "Blue Star",
+      "categorySlug": "acs",
+      "price": 52990,
+      "mrp": 62528,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heat_pump_unit.webp/500px-Heat_pump_unit.webp"
+      ],
+      "rating": 3.9,
+      "ratingCount": 323,
+      "stock": 51,
+      "description": "Blue Star 2 Ton 5 Star Split AC by Blue Star. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "5 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Hitachi 1.5 Ton Inverter Split AC",
+      "brand": "Hitachi",
+      "categorySlug": "acs",
+      "price": 45990,
+      "mrp": 54728,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heat_pump_unit.webp/500px-Heat_pump_unit.webp",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg"
+      ],
+      "rating": 4.8,
+      "ratingCount": 414,
+      "stock": 14,
+      "description": "Hitachi 1.5 Ton Inverter Split AC by Hitachi. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Carrier 1.5 Ton 3 Star Split AC",
+      "brand": "Carrier",
+      "categorySlug": "acs",
+      "price": 34990,
+      "mrp": 41988,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg"
+      ],
+      "rating": 4.3,
+      "ratingCount": 505,
+      "stock": 67,
+      "description": "Carrier 1.5 Ton 3 Star Split AC by Carrier. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Panasonic 1 Ton 3 Star Inverter AC",
+      "brand": "Panasonic",
+      "categorySlug": "acs",
+      "price": 31990,
+      "mrp": 38708,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heat_pump_unit.webp/500px-Heat_pump_unit.webp"
+      ],
+      "rating": 3.8,
+      "ratingCount": 596,
+      "stock": 30,
+      "description": "Panasonic 1 Ton 3 Star Inverter AC by Panasonic. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Whirlpool 1.5 Ton 3 Star Split AC",
+      "brand": "Whirlpool",
+      "categorySlug": "acs",
+      "price": 35990,
+      "mrp": 43908,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Heat_pump_unit.webp/500px-Heat_pump_unit.webp",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg"
+      ],
+      "rating": 4.7,
+      "ratingCount": 687,
+      "stock": 83,
+      "description": "Whirlpool 1.5 Ton 3 Star Split AC by Whirlpool. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Godrej 1 Ton 3 Star Split AC",
+      "brand": "Godrej",
+      "categorySlug": "acs",
+      "price": 29990,
+      "mrp": 36888,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg/500px-Panasonic_AIR_CONDITIONER_INDOOR_UNIT_CS-C10KJ2_%282%29.jpg"
+      ],
+      "rating": 4.2,
+      "ratingCount": 778,
+      "stock": 46,
+      "description": "Godrej 1 Ton 3 Star Split AC by Godrej. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Type": "Split AC",
+        "StarRating": "3 Star",
+        "Compressor": "Inverter"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Sony Bravia 55\" 4K OLED TV",
+      "brand": "Sony",
+      "categorySlug": "tvs",
+      "price": 159990,
+      "mrp": 198388,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/OnePlus_TV_U1S.jpg/500px-OnePlus_TV_U1S.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Samsung_Smart_TV_2012_%28E-Series%29.jpg/500px-Samsung_Smart_TV_2012_%28E-Series%29.jpg"
+      ],
+      "rating": 3.7,
+      "ratingCount": 869,
+      "stock": 99,
+      "description": "Sony Bravia 55\" 4K OLED TV by Sony. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "55\"",
+        "Resolution": "4K OLED",
+        "Smart": "Google TV"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Samsung 55\" Neo QLED 4K TV",
+      "brand": "Samsung",
+      "categorySlug": "tvs",
+      "price": 134990,
+      "mrp": 141740,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Samsung_Smart_TV_2012_%28E-Series%29.jpg/500px-Samsung_Smart_TV_2012_%28E-Series%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/500px-A_flat-screen_television.jpg"
+      ],
+      "rating": 4.6,
+      "ratingCount": 60,
+      "stock": 62,
+      "description": "Samsung 55\" Neo QLED 4K TV by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "55\"",
+        "Resolution": "4K QLED",
+        "Smart": "Tizen"
+      }
+    },
+    {
+      "id": 41,
+      "name": "LG 55\" C3 OLED evo TV",
+      "brand": "LG",
+      "categorySlug": "tvs",
+      "price": 149990,
+      "mrp": 158989,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/500px-A_flat-screen_television.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Samsung_OLED_TV.jpg/500px-Samsung_OLED_TV.jpg"
+      ],
+      "rating": 4.1,
+      "ratingCount": 151,
+      "stock": 25,
+      "description": "LG 55\" C3 OLED evo TV by LG. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "55\"",
+        "Resolution": "4K OLED",
+        "Smart": "webOS"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Mi TV X Pro 55\"",
+      "brand": "Xiaomi",
+      "categorySlug": "tvs",
+      "price": 54999,
+      "mrp": 58849,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Samsung_OLED_TV.jpg/500px-Samsung_OLED_TV.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/LG_OLED_TV.jpg/500px-LG_OLED_TV.jpg"
+      ],
+      "rating": 3.6,
+      "ratingCount": 242,
+      "stock": 78,
+      "description": "Mi TV X Pro 55\" by Xiaomi. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "55\"",
+        "Resolution": "4K LED",
+        "Smart": "Google TV"
+      }
+    },
+    {
+      "id": 43,
+      "name": "OnePlus TV Y1S 43\"",
+      "brand": "OnePlus",
+      "categorySlug": "tvs",
+      "price": 26999,
+      "mrp": 29159,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/LG_OLED_TV.jpg/500px-LG_OLED_TV.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Oled_tv.jpg/500px-Oled_tv.jpg"
+      ],
+      "rating": 4.5,
+      "ratingCount": 333,
+      "stock": 41,
+      "description": "OnePlus TV Y1S 43\" by OnePlus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "43\"",
+        "Resolution": "Full HD",
+        "Smart": "Android TV"
+      }
+    },
+    {
+      "id": 44,
+      "name": "TCL 50\" 4K Google TV",
+      "brand": "TCL",
+      "categorySlug": "tvs",
+      "price": 32999,
+      "mrp": 35969,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Oled_tv.jpg/500px-Oled_tv.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/OnePlus_TV_U1S.jpg/500px-OnePlus_TV_U1S.jpg"
+      ],
+      "rating": 4,
+      "ratingCount": 424,
+      "stock": 94,
+      "description": "TCL 50\" 4K Google TV by TCL. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "50\"",
+        "Resolution": "4K LED",
+        "Smart": "Google TV"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Hisense 65\" ULED 4K TV",
+      "brand": "Hisense",
+      "categorySlug": "tvs",
+      "price": 69999,
+      "mrp": 76999,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/OnePlus_TV_U1S.jpg/500px-OnePlus_TV_U1S.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Samsung_Smart_TV_2012_%28E-Series%29.jpg/500px-Samsung_Smart_TV_2012_%28E-Series%29.jpg"
+      ],
+      "rating": 4.9,
+      "ratingCount": 515,
+      "stock": 57,
+      "description": "Hisense 65\" ULED 4K TV by Hisense. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "65\"",
+        "Resolution": "4K ULED",
+        "Smart": "VIDAA"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Panasonic 43\" Smart LED TV",
+      "brand": "Panasonic",
+      "categorySlug": "tvs",
+      "price": 27999,
+      "mrp": 31079,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Samsung_Smart_TV_2012_%28E-Series%29.jpg/500px-Samsung_Smart_TV_2012_%28E-Series%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/500px-A_flat-screen_television.jpg"
+      ],
+      "rating": 4.4,
+      "ratingCount": 606,
+      "stock": 20,
+      "description": "Panasonic 43\" Smart LED TV by Panasonic. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "43\"",
+        "Resolution": "Full HD",
+        "Smart": "Android TV"
+      }
+    },
+    {
+      "id": 47,
+      "name": "VU 55\" Premium 4K TV",
+      "brand": "VU",
+      "categorySlug": "tvs",
+      "price": 38999,
+      "mrp": 43679,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/A_flat-screen_television.jpg/500px-A_flat-screen_television.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Samsung_OLED_TV.jpg/500px-Samsung_OLED_TV.jpg"
+      ],
+      "rating": 3.9,
+      "ratingCount": 697,
+      "stock": 73,
+      "description": "VU 55\" Premium 4K TV by VU. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "55\"",
+        "Resolution": "4K LED",
+        "Smart": "Android TV"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Toshiba 43\" Fire TV Edition",
+      "brand": "Toshiba",
+      "categorySlug": "tvs",
+      "price": 24999,
+      "mrp": 28249,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Samsung_OLED_TV.jpg/500px-Samsung_OLED_TV.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/LG_OLED_TV.jpg/500px-LG_OLED_TV.jpg"
+      ],
+      "rating": 4.8,
+      "ratingCount": 788,
+      "stock": 36,
+      "description": "Toshiba 43\" Fire TV Edition by Toshiba. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Size": "43\"",
+        "Resolution": "Full HD",
+        "Smart": "Fire TV"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Sony PlayStation 5",
+      "brand": "Sony",
+      "categorySlug": "game-consoles",
+      "price": 54990,
+      "mrp": 62689,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/500px-Microsoft-Xbox-One-Console-Set-wKinect.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/500px-PS4-Console-wDS4.jpg"
+      ],
+      "rating": 4.3,
+      "ratingCount": 879,
+      "stock": 89,
+      "description": "Sony PlayStation 5 by Sony. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Storage": "825GB SSD",
+        "Resolution": "4K@120fps"
+      }
+    },
+    {
+      "id": 50,
+      "name": "PlayStation 5 Digital Edition",
+      "brand": "Sony",
+      "categorySlug": "game-consoles",
+      "price": 44990,
+      "mrp": 51738,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/500px-PS4-Console-wDS4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nintendo-Switch-Console-Docked-wJoyConRB.jpg/500px-Nintendo-Switch-Console-Docked-wJoyConRB.jpg"
+      ],
+      "rating": 3.8,
+      "ratingCount": 70,
+      "stock": 52,
+      "description": "PlayStation 5 Digital Edition by Sony. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Storage": "825GB SSD",
+        "Resolution": "4K@120fps"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Xbox Series X",
+      "brand": "Microsoft",
+      "categorySlug": "game-consoles",
+      "price": 52990,
+      "mrp": 61468,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nintendo-Switch-Console-Docked-wJoyConRB.jpg/500px-Nintendo-Switch-Console-Docked-wJoyConRB.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wii-Console-Back.jpg/500px-Wii-Console-Back.jpg"
+      ],
+      "rating": 4.7,
+      "ratingCount": 161,
+      "stock": 15,
+      "description": "Xbox Series X by Microsoft. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Storage": "1TB SSD",
+        "Resolution": "4K@120fps"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Xbox Series S",
+      "brand": "Microsoft",
+      "categorySlug": "game-consoles",
+      "price": 32990,
+      "mrp": 38598,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wii-Console-Back.jpg/500px-Wii-Console-Back.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg/500px-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg"
+      ],
+      "rating": 4.2,
+      "ratingCount": 252,
+      "stock": 68,
+      "description": "Xbox Series S by Microsoft. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Storage": "512GB SSD",
+        "Resolution": "1440p@120fps"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Nintendo Switch OLED",
+      "brand": "Nintendo",
+      "categorySlug": "game-consoles",
+      "price": 34990,
+      "mrp": 41288,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg/500px-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png/500px-Black_and_white_Playstation_5_base_edition_with_controller.png"
+      ],
+      "rating": 3.7,
+      "ratingCount": 343,
+      "stock": 31,
+      "description": "Nintendo Switch OLED by Nintendo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "7\" OLED",
+        "Storage": "64GB"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Nintendo Switch Lite",
+      "brand": "Nintendo",
+      "categorySlug": "game-consoles",
+      "price": 19990,
+      "mrp": 23788,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png/500px-Black_and_white_Playstation_5_base_edition_with_controller.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/500px-Microsoft-Xbox-One-Console-Set-wKinect.jpg"
+      ],
+      "rating": 4.6,
+      "ratingCount": 434,
+      "stock": 84,
+      "description": "Nintendo Switch Lite by Nintendo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "5.5\" LCD",
+        "Storage": "32GB"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Steam Deck OLED",
+      "brand": "Valve",
+      "categorySlug": "game-consoles",
+      "price": 54990,
+      "mrp": 65988,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/500px-Microsoft-Xbox-One-Console-Set-wKinect.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/500px-PS4-Console-wDS4.jpg"
+      ],
+      "rating": 4.1,
+      "ratingCount": 525,
+      "stock": 47,
+      "description": "Steam Deck OLED by Valve. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "7.4\" OLED",
+        "Storage": "512GB SSD"
+      }
+    },
+    {
+      "id": 56,
+      "name": "ASUS ROG Ally",
+      "brand": "Asus",
+      "categorySlug": "game-consoles",
+      "price": 69990,
+      "mrp": 84688,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/PS4-Console-wDS4.jpg/500px-PS4-Console-wDS4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nintendo-Switch-Console-Docked-wJoyConRB.jpg/500px-Nintendo-Switch-Console-Docked-wJoyConRB.jpg"
+      ],
+      "rating": 3.6,
+      "ratingCount": 616,
+      "stock": 100,
+      "description": "ASUS ROG Ally by Asus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "7\" FHD 120Hz",
+        "Storage": "512GB SSD"
+      }
+    },
+    {
+      "id": 57,
+      "name": "iPad Air (M2)",
+      "brand": "Apple",
+      "categorySlug": "tabs",
+      "price": 59900,
+      "mrp": 73078,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+      ],
+      "rating": 4.5,
+      "ratingCount": 707,
+      "stock": 63,
+      "description": "iPad Air (M2) by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "11\" Liquid Retina",
+        "Storage": "128GB",
+        "Chip": "Apple M2"
+      }
+    },
+    {
+      "id": 58,
+      "name": "iPad 10th Gen",
+      "brand": "Apple",
+      "categorySlug": "tabs",
+      "price": 34900,
+      "mrp": 42927,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png"
+      ],
+      "rating": 4,
+      "ratingCount": 798,
+      "stock": 26,
+      "description": "iPad 10th Gen by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "10.9\" Liquid Retina",
+        "Storage": "64GB",
+        "Chip": "A14 Bionic"
+      }
+    },
+    {
+      "id": 59,
+      "name": "iPad Pro 12.9\" M4",
+      "brand": "Apple",
+      "categorySlug": "tabs",
+      "price": 119900,
+      "mrp": 148676,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+      ],
+      "rating": 4.9,
+      "ratingCount": 889,
+      "stock": 79,
+      "description": "iPad Pro 12.9\" M4 by Apple. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "13\" Ultra Retina XDR",
+        "Storage": "256GB",
+        "Chip": "Apple M4"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Samsung Galaxy Tab S9",
+      "brand": "Samsung",
+      "categorySlug": "tabs",
+      "price": 72999,
+      "mrp": 76649,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png"
+      ],
+      "rating": 4.4,
+      "ratingCount": 80,
+      "stock": 42,
+      "description": "Samsung Galaxy Tab S9 by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "11\" Dynamic AMOLED",
+        "Storage": "128GB"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "brand": "Samsung",
+      "categorySlug": "tabs",
+      "price": 108999,
+      "mrp": 115539,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+      ],
+      "rating": 3.9,
+      "ratingCount": 171,
+      "stock": 95,
+      "description": "Samsung Galaxy Tab S9 Ultra by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "14.6\" Dynamic AMOLED",
+        "Storage": "256GB"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Samsung Galaxy Tab A9",
+      "brand": "Samsung",
+      "categorySlug": "tabs",
+      "price": 13999,
+      "mrp": 14979,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png"
+      ],
+      "rating": 4.8,
+      "ratingCount": 262,
+      "stock": 58,
+      "description": "Samsung Galaxy Tab A9 by Samsung. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "8.7\" LCD",
+        "Storage": "64GB"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Xiaomi Pad 6",
+      "brand": "Xiaomi",
+      "categorySlug": "tabs",
+      "price": 26999,
+      "mrp": 29159,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+      ],
+      "rating": 4.3,
+      "ratingCount": 353,
+      "stock": 21,
+      "description": "Xiaomi Pad 6 by Xiaomi. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "11\" 144Hz LCD",
+        "Storage": "128GB"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Lenovo Tab P11",
+      "brand": "Lenovo",
+      "categorySlug": "tabs",
+      "price": 21999,
+      "mrp": 23979,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png"
+      ],
+      "rating": 3.8,
+      "ratingCount": 444,
+      "stock": 74,
+      "description": "Lenovo Tab P11 by Lenovo. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "11.5\" 2K LCD",
+        "Storage": "128GB"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Realme Pad 2",
+      "brand": "Realme",
+      "categorySlug": "tabs",
+      "price": 17999,
+      "mrp": 19799,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+      ],
+      "rating": 4.7,
+      "ratingCount": 535,
+      "stock": 37,
+      "description": "Realme Pad 2 by Realme. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "11.5\" 2K LCD",
+        "Storage": "128GB"
+      }
+    },
+    {
+      "id": 66,
+      "name": "OnePlus Pad",
+      "brand": "OnePlus",
+      "categorySlug": "tabs",
+      "price": 37999,
+      "mrp": 42179,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png"
+      ],
+      "rating": 4.2,
+      "ratingCount": 626,
+      "stock": 90,
+      "description": "OnePlus Pad by OnePlus. Genuine product, fast delivery, and easy returns available on TechCart-Electronics.",
+      "specs": {
+        "Display": "11.61\" 144Hz LCD",
+        "Storage": "128GB"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@techcart.com",
+      "password": "Admin@123",
+      "phone": "9876543210",
+      "role": "admin",
+      "address": "TechCart HQ, Bengaluru, 560001",
+      "createdAt": "2025-01-05T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Faizan Shaik",
+      "email": "shaikfaizanab@gmail.com",
+      "password": "Faizan@123",
+      "phone": "9876500000",
+      "role": "customer",
+      "address": "MG Road, Bengaluru, 560001",
+      "createdAt": "2025-02-10T10:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Riya Kapoor",
+      "email": "riya.kapoor@example.com",
+      "password": "Riya@1234",
+      "phone": "9876511111",
+      "role": "customer",
+      "address": "Andheri West, Mumbai, 400058",
+      "createdAt": "2025-03-02T11:15:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Aman Gupta",
+      "email": "aman.gupta@example.com",
+      "password": "Aman@1234",
+      "phone": "9876522222",
+      "role": "customer",
+      "address": "Sector 62, Noida, 201301",
+      "createdAt": "2025-04-18T14:45:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 2,
+      "items": [
+        {
+          "productId": 2,
+          "name": "iPhone 15",
+          "price": 79900,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+        },
+        {
+          "productId": 58,
+          "name": "iPad 10th Gen",
+          "price": 34900,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+        }
+      ],
+      "total": 114800,
+      "address": "MG Road, Bengaluru, 560001",
+      "paymentMethod": "UPI",
+      "status": "Delivered",
+      "createdAt": "2026-08-15T17:58:38.384Z"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "items": [
+        {
+          "productId": 5,
+          "name": "Samsung Galaxy S24",
+          "price": 79999,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Samsung_Galaxy_Note_20_front.png/500px-Samsung_Galaxy_Note_20_front.png"
+        }
+      ],
+      "total": 79999,
+      "address": "Andheri West, Mumbai, 400058",
+      "paymentMethod": "Card",
+      "status": "Delivered",
+      "createdAt": "2026-08-18T17:58:38.385Z"
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "items": [
+        {
+          "productId": 53,
+          "name": "Nintendo Switch OLED",
+          "price": 34990,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sega-Mega-Drive-JP-Mk1-Console-Set.jpg/500px-Sega-Mega-Drive-JP-Mk1-Console-Set.jpg"
+        },
+        {
+          "productId": 52,
+          "name": "Xbox Series S",
+          "price": 32990,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wii-Console-Back.jpg/500px-Wii-Console-Back.jpg"
+        }
+      ],
+      "total": 67980,
+      "address": "Sector 62, Noida, 201301",
+      "paymentMethod": "COD",
+      "status": "Delivered",
+      "createdAt": "2026-08-20T17:58:38.385Z"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "items": [
+        {
+          "productId": 17,
+          "name": "MacBook Air M2",
+          "price": 114900,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+        }
+      ],
+      "total": 114900,
+      "address": "MG Road, Bengaluru, 560001",
+      "paymentMethod": "UPI",
+      "status": "Shipped",
+      "createdAt": "2026-08-26T17:58:38.385Z"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "items": [
+        {
+          "productId": 29,
+          "name": "LG 1.5 Ton 5 Star Inverter Split AC",
+          "price": 44990,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SHARP_air_conditioner_outdoor_unit_20201003.jpg/500px-SHARP_air_conditioner_outdoor_unit_20201003.jpg"
+        }
+      ],
+      "total": 44990,
+      "address": "Andheri West, Mumbai, 400058",
+      "paymentMethod": "Card",
+      "status": "Pending",
+      "createdAt": "2026-08-29T17:58:38.385Z"
+    },
+    {
+      "id": 6,
+      "userId": 4,
+      "items": [
+        {
+          "productId": 49,
+          "name": "Sony PlayStation 5",
+          "price": 54990,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microsoft-Xbox-One-Console-Set-wKinect.jpg/500px-Microsoft-Xbox-One-Console-Set-wKinect.jpg"
+        },
+        {
+          "productId": 60,
+          "name": "Samsung Galaxy Tab S9",
+          "price": 72999,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+        }
+      ],
+      "total": 127989,
+      "address": "Sector 62, Noida, 201301",
+      "paymentMethod": "UPI",
+      "status": "Delivered",
+      "createdAt": "2026-08-31T17:58:38.385Z"
+    },
+    {
+      "id": 7,
+      "userId": 2,
+      "items": [
+        {
+          "productId": 40,
+          "name": "Samsung 55\" Neo QLED 4K TV",
+          "price": 134990,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Samsung_Smart_TV_2012_%28E-Series%29.jpg/500px-Samsung_Smart_TV_2012_%28E-Series%29.jpg"
+        }
+      ],
+      "total": 134990,
+      "address": "MG Road, Bengaluru, 560001",
+      "paymentMethod": "Card",
+      "status": "Cancelled",
+      "createdAt": "2026-09-01T17:58:38.385Z"
+    },
+    {
+      "id": 8,
+      "userId": 3,
+      "items": [
+        {
+          "productId": 19,
+          "name": "Dell XPS 13",
+          "price": 99990,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg/500px-Lenovo_ThinkPad_X1_Ultrabook.jpg"
+        },
+        {
+          "productId": 57,
+          "name": "iPad Air (M2)",
+          "price": 59900,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IPad_10.png/500px-IPad_10.png"
+        }
+      ],
+      "total": 159890,
+      "address": "Andheri West, Mumbai, 400058",
+      "paymentMethod": "UPI",
+      "status": "Delivered",
+      "createdAt": "2026-09-02T17:58:38.385Z"
+    },
+    {
+      "id": 9,
+      "userId": 4,
+      "items": [
+        {
+          "productId": 60,
+          "name": "Samsung Galaxy Tab S9",
+          "price": 72999,
+          "qty": 1,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_Tab_S9.png/500px-Samsung_Galaxy_Tab_S9.png"
+        }
+      ],
+      "total": 72999,
+      "address": "Sector 62, Noida, 201301",
+      "paymentMethod": "COD",
+      "status": "Pending",
+      "createdAt": "2026-09-03T17:58:38.385Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "userName": "Faizan Shaik",
+      "rating": 5,
+      "comment": "The iPhone 15 Pro Max arrived the very next day, 100% genuine with all accessories sealed. Checkout was smooth and tracking updates were spot on.",
+      "productName": "iPhone 15 Pro Max",
+      "verified": true,
+      "date": "2026-08-12"
+    },
+    {
+      "id": 2,
+      "userName": "Riya Kapoor",
+      "rating": 5,
+      "comment": "Great deal on the Samsung Galaxy S24! Packaging was secure and customer support helped me with an easy exchange when I needed a different colour.",
+      "productName": "Samsung Galaxy S24",
+      "verified": true,
+      "date": "2026-07-28"
+    },
+    {
+      "id": 3,
+      "userName": "Aman Gupta",
+      "rating": 4,
+      "comment": "Ordered a console and a TV together — both delivered on time and well packed. TechCart is now my go-to for electronics shopping.",
+      "productName": "Sony PlayStation 5",
+      "verified": true,
+      "date": "2026-07-15"
+    },
+    {
+      "id": 4,
+      "userName": "Priya Nair",
+      "rating": 5,
+      "comment": "Switched my old AC before summer hit and the installation guidance in the order was really clear. Cooling great, highly recommend TechCart.",
+      "productName": "LG 1.5 Ton 5 Star Inverter Split AC",
+      "verified": true,
+      "date": "2026-06-30"
+    },
+    {
+      "id": 5,
+      "userName": "Karthik Reddy",
+      "rating": 4,
+      "comment": "The Dell XPS 13 I bought performs great for work, and the price was genuinely lower than other sites for the same configuration.",
+      "productName": "Dell XPS 13",
+      "verified": true,
+      "date": "2026-06-18"
+    },
+    {
+      "id": 6,
+      "userName": "Sneha Menon",
+      "rating": 5,
+      "comment": "Loved the wishlist feature — saved a few items and bought them once there was a discount. Smooth, professional shopping experience overall.",
+      "productName": "Samsung Galaxy Tab S9",
+      "verified": true,
+      "date": "2026-05-22"
+    }
+  ]
+}
